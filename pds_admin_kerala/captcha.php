@@ -8,4 +8,3 @@ if (isset($_POST['captcha'])) {
     echo "Error: No CAPTCHA received!";
 }
 ?>
-blaa
